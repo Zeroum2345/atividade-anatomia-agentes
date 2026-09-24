@@ -95,4 +95,4 @@ Copie o `ANALISE-TEMPLATE.md` (por exemplo, para `ANALISE.md`), cole o trace e, 
 
 ## Entrega
 
-Suba em um repositório `agent.py` instrumentado, `inventory.py`, `test_inventory.py` e a análise em markdown, e entregue o link no form do classroom.
+Suba em um repositório `agent.py` instrumentado, `inventory.py`, `test_inventory.py` e a `ANALISE.md`, e entregue o link no form do classroom.
