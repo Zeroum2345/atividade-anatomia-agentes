@@ -6,7 +6,7 @@ Não importa se o agente conserta o bug. O que vale é como você identifica e e
 
 ## Sobre o código
 
-O `agent.py` é uma simplificação de um AI Coding Agent. Ele foi implementado pelos responsáveis pela disciplina The Modern Software Developer, de Stanford, e disponibilizado publicamente por eles. Nós apenas o usamos aqui. A versão original está em `src/` e o `agent.py` é a cópia que você vai modificar.
+O `agent.py` é uma simplificação de um AI Coding Agent. Ele foi implementado pelos responsáveis pela disciplina The Modern Software Developer, de Stanford, e disponibilizado publicamente por eles. Nós apenas o usamos aqui.
 
 ## Arquivos
 
